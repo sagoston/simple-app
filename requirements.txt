@@ -1,1 +1,1 @@
--e git+https://github.com/sagoston/simple-library/#egg=simple-library
+-e git+https://github.com/sagoston/simple-library.git

@@ -1,0 +1,1 @@
+-e git://git@github.com:sagoston/simple-library.git#simple-library
